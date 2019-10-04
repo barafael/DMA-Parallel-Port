@@ -1,0 +1,1 @@
+DMAParallelPortDriverManager.cpp:17:1:DMAParallelPort::DMAParallelPort(uint16_t*, size_t, GPIO_TypeDef&, GPIO_InitTypeDef&, TIM_HandleTypeDef&, DMA_HandleTypeDef&)	32	static
